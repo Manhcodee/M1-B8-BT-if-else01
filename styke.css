@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    width: 700px;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.B1, .B2, .B3, .B4, .B5, .B6, .B7 {
+    padding-top: 20px;
+    padding-left: 150px;
+    border: 2px solid #ccc;
+    height: 100px;
+}
+
+input {
+    height: 25px;
+}
+
+button {
+    height: 25px;
+}
+
+p {
+    margin-top: 5px;
+}
